@@ -277,17 +277,6 @@ Baud rate: 115200
 
 ---
 
-## 📊 BẢNG SO SÁNH CÁC BÀI TẬP
-
-| Bài tập | Số ESP32 | Vai trò | Tính năng chính | Độ khó |
-|---------|----------|---------|-----------------|--------|
-| **#1 Peripheral** | 1 | Server | Điều khiển LED từ điện thoại | ⭐ |
-| **#2 Central** | 1 | Client | Quét và kết nối BLE | ⭐⭐ |
-| **#3 2 ESP32** | 2 | Server + Client | Truyền dữ liệu cảm biến | ⭐⭐⭐ |
-| **#4 Nâng cao** | 2 | Server + Client | Notify + Security + Long String | ⭐⭐⭐⭐ |
-
----
-
 ## 🛠️ TROUBLESHOOTING
 
 ### Vấn đề 1: ESP32 bị nóng
